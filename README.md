@@ -8,3 +8,4 @@ Technologies used in this project include :
 • Database : MySQL
 
 • Other Technologies used - IntelliJ IDEA, Maven Archetype, Tomcat Server, JDBC(ConnectorJ)
+![Output1](https://ibb.co/K7cQHvD)
